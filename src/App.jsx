@@ -701,7 +701,7 @@ export default function App() {
         <div className="hero-blob hero-blob-1" />
         <div className="hero-blob hero-blob-2" />
         <div className="hero-content">
-          <p className="hero-eyebrow">Mombasa, Kenya · Since 2023</p>
+          <p className="hero-eyebrow">Mombasa, Kenya </p>
           <h1>Effortless<br /><em>Style</em></h1>
           <p className="hero-sub">Sandals · Linen · Straw Bags</p>
           <div className="hero-pills">
